@@ -1,5 +1,5 @@
 package com.devsuperior.dsmeta.config;
-// Essa classe é um codigo de config do projeto que libera (cors)
+// Essa classe é um codigo de config do projeto que libera (coors)
 // que o back end possa ser acessado por outra aplicação que esta hospedado em outro lugar
 
 import org.springframework.context.annotation.Bean;
