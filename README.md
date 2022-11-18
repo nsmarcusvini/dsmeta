@@ -1,2 +1,0 @@
-# dsmeta
-BootCamp devsuperior
